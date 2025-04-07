@@ -13,7 +13,7 @@ const links = [
   
   export default function Hero() {
     return (
-      <div className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
+      <div className="relative isolate h-dvh overflow-hidden bg-gray-900 py-24 sm:py-32">
         <img
           alt=""
           src="https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg"
